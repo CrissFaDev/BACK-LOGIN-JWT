@@ -44,3 +44,14 @@ Para ejecutar las pruebas, utiliza el comando `mvn test`.
 
 Para obtener más ayuda sobre Spring Boot, consulta la [documentación oficial de Spring Boot](https://spring.io/projects/spring-boot).
 
+# Capture
+
+BD:
+![image](https://github.com/CrissFaDev/BACK-LOGIN-JWT/assets/80075652/059ee867-3972-4176-9b5a-08ec95245b39)
+
+POSTMAN:
+![image](https://github.com/CrissFaDev/BACK-LOGIN-JWT/assets/80075652/a57a12d0-aa91-409b-85eb-2d648e7a2968)
+![image](https://github.com/CrissFaDev/BACK-LOGIN-JWT/assets/80075652/12e1e0d4-3769-41a0-8e19-cbe8c17c8d03)
+![image](https://github.com/CrissFaDev/BACK-LOGIN-JWT/assets/80075652/eac5c922-a5ec-4ea9-aba2-6c3629469ff5)
+
+
